@@ -4,7 +4,7 @@
 
 #### Scheduled Length: 2 Hours
 
-Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript 301 workshop. JavaScript 301 is the third lesson in our free, four-part Introductory JavaScript Series (101, 201, 301 and 401). We're excited to have you.
+Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript Part V workshop. JavaScript Part V is the fifth lesson in our free, seven-part Introductory JavaScript Series. We're excited to have you.
 
 In order to complete these exercises, open [repl.it](https://repl.it/), choose JavaScript, and then write your code in the left-hand panel. You can run your code using the "Run" button.
 
@@ -23,9 +23,8 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- Part I: [While](./1-while)
-- Part II: [Arrays](./2-arrays)
-- Part III: [Array Iteration](./3-array-iteration)
+- Part I: [Arrays & For Loops](./2-arrays)
+- Part II: [While Loops](./3-array-iteration)
 
 
 ## Thinking about JavaScript
