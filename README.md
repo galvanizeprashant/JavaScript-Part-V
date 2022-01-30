@@ -26,7 +26,6 @@ _For your ease of access – click the following links for each section's practi
 - Part I: [While](./1-while)
 - Part II: [Arrays](./2-arrays)
 - Part III: [Array Iteration](./3-array-iteration)
-- Part IV: [Objects](./4-objects)
 
 
 ## Thinking about JavaScript
